@@ -1,0 +1,7 @@
+Username: 	laoshu
+depart location: 	Johannesburg
+destination: 	Cape Town
+departTime: 	2022-01-13
+Duration: 	null
+total cost: 	3600.0
+number of seats: 	36
